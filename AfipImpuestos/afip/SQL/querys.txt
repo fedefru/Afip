@@ -1,0 +1,8 @@
+INSERT INTO `afip`.`impuesto` (`idimpuesto`, `nombre`, `fecha_desde`, `feche_hasta`, `porcentaje`) VALUES ('1', 'iva', '2019-06-15', '2019-08-15', '21');
+INSERT INTO `afip`.`impuesto` (`idimpuesto`, `nombre`, `fecha_desde`, `feche_hasta`, `porcentaje`) VALUES ('2', 'ganancia minima presunta', '2019-04-18', '2019-08-15', '1');
+INSERT INTO `afip`.`impuesto` (`idimpuesto`, `nombre`, `fecha_desde`, `feche_hasta`, `porcentaje`) VALUES ('3', 'ganancia', '2019-03-20', '2019-05-24', '3');
+INSERT INTO `afip`.`impuesto` (`idimpuesto`, `nombre`, `fecha_desde`, `feche_hasta`, `porcentaje`) VALUES ('4', 'bienes personales', '2019-02-24', '2019-06-13', '4');
+INSERT INTO `afip`.`impuesto` (`idimpuesto`, `nombre`, `fecha_desde`, `feche_hasta`, `porcentaje`) VALUES ('5', 'debitos y creditos bancarios', '2019-01-13', '2019-08-14', '6');
+INSERT INTO `afip`.`impuesto` (`idimpuesto`, `nombre`, `fecha_desde`, `feche_hasta`, `porcentaje`) VALUES ('6', 'ingresos brutos', '2018-09-08', '2019-05-13', '2');
+INSERT INTO `afip`.`impuesto` (`idimpuesto`, `nombre`, `fecha_desde`, `feche_hasta`, `porcentaje`) VALUES ('7', 'impuesto al sello', '2019-01-13', '2019-07-19', '7');
+INSERT INTO `afip`.`impuesto` (`idimpuesto`, `nombre`, `fecha_desde`, `feche_hasta`, `porcentaje`) VALUES ('8', 'transferencia de inmuebles', '2019-10-23', '2019-11-13', '1');
